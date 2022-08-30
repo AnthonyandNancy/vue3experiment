@@ -20,7 +20,7 @@
     "watch": "^1.0.2"
   },
   "devDependencies": {
-    "vite": "^0.20.0",
+    "vite": "^2.9.13",
     "express": "^4.17.1"
   }
 }
